@@ -1,8 +1,9 @@
 <p align="center">
   <a href="https://github.com/AwaisArbab">
-    <img src="https://miro.medium.com/v2/1*X7Q84nkQN1DiFXC-rQLt9g.gif" alt="MasterHead" />
+    <img src="https://raw.githubusercontent.com/AwaisArbab/AwaisArbab/main/banner.gif" alt="Awais Arbab Banner" />
   </a>
 </p>
+
 <h1 align="center">Hi 👋, I'm Awais Arbab</h1>
 <h3 align="center">Passionate about Programming | DSA | Web Development | Mathematics</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
